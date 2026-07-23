@@ -1,6 +1,6 @@
 # 👋 Hello there, I'm cannnAvar!
 
-### 🧑‍🎓 Mechanical Engineering Student & Hobbyist Developer
+### 🧑‍🎓 Mechanical Engineering Student & Developer
 
 Welcome to my GitHub profile! I’m a passionate learner and coder, currently exploring new horizons as a mechanical engineering student and hobbyist developer.
 
