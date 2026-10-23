@@ -8,8 +8,8 @@ Welcome to my GitHub profile! I’m a passionate learner and coder, currently ex
 
 ## 🛠️ Skills & Interests
 
-- **Languages:** Python 🐍 | C# 💻 (mid-range skills)
-- **Game Dev:** Learning Godot Engine 🚀
+- **Languages:** Python 🐍 | C# | Godot💻 (mid-range skills)
+- **Game Dev:** Godot Enjoyer
 - **Engineering:** Mechanical engineering concepts & projects 🔧
 - **Always Exploring:** Eager to expand my skill set and take on new challenges!
 
